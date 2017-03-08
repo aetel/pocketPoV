@@ -1,22 +1,8 @@
-;Units;Price per unit;;;;
-ATTiny85;1;0,87;http://es.farnell.com/atmel/attiny85-20pu/mcu-8bit-attiny-20mhz-dip-8/dp/1455162;;;
-Battery Retainer;1;0,241;http://es.farnell.com/keystone/2998/battery-smd-retainer/dp/1650691?MER=BN-1650691;;;
-Resistor Array;1;0,168;http://es.farnell.com/bourns/4606x-101-101lf/red-de-resistencias-100r/dp/9356126;;;
-LED Rojo;5;0,0396;http://es.farnell.com/multicomp/mcl293pd/led-5mmx5mm-150-hi-rojo/dp/1581159;;;
-LED Verde;5;0,0483;http://es.farnell.com/multicomp/mcl293gd/led-5mmx5mm-150-verde/dp/1581161;;;
-LED Amarillo;5;0,0407;http://es.farnell.com/multicomp/mcl293ad/led-5mmx5mm-150-naranja/dp/1581164;;;
-Battery;1;0,734;http://es.farnell.com/multicomp/cr2032/pila-litio-cr2032-210mah-3v/dp/2065171;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
+Thing;Units;Price per unit;
+ATTiny85;1;0,87;http://es.farnell.com/atmel/attiny85-20pu/mcu-8bit-attiny-20mhz-dip-8/dp/1455162
+Battery Retainer;1;0,241;http://es.farnell.com/keystone/2998/battery-smd-retainer/dp/1650691?MER=BN-1650691
+Resistor Array;1;0,168;http://es.farnell.com/bourns/4606x-101-101lf/red-de-resistencias-100r/dp/9356126
+LED Rojo;5;0,0396;http://es.farnell.com/multicomp/mcl293pd/led-5mmx5mm-150-hi-rojo/dp/1581159
+LED Verde;5;0,0483;http://es.farnell.com/multicomp/mcl293gd/led-5mmx5mm-150-verde/dp/1581161
+LED Amarillo;5;0,0407;http://es.farnell.com/multicomp/mcl293ad/led-5mmx5mm-150-naranja/dp/1581164
+Battery;1;0,734;http://es.farnell.com/multicomp/cr2032/pila-litio-cr2032-210mah-3v/dp/2065171
