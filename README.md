@@ -1,7 +1,7 @@
 # pocketPoV
 This little device can serve as a Persistence of View (PoV) display. Just make it swing in the air and it will display a message.
 
-![it works!](https://github.com/aetel/pocketPoV/images/lightpainting.jpeg "pocketPoV")
+![it works!](https://github.com/aetel/pocketPoV/blob/master/images/lightpainting.jpeg "pocketPoV")
 
 To program the ATtiny85 you may follow this guide:
 http://highlowtech.org/?p=1706
